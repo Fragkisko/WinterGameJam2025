@@ -1,7 +1,7 @@
 extends CharacterBody2D
 
-const SPEED = 700.0
-const ACCEL = 2.0
+const SPEED = 800.0
+const ACCEL = 15.0
 
 var input: Vector2
 

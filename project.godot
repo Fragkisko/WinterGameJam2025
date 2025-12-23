@@ -11,12 +11,15 @@ config_version=5
 [application]
 
 config/name="IcedVampireSurvivors"
-run/main_scene="res://character_body_2d.tscn"
+run/main_scene="uid://bxsi1xo38e4a4"
 config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://Assets/icon.svg"
 
 [display]
 
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/mode=2
 window/stretch/mode="canvas_items"
 
 [input]
