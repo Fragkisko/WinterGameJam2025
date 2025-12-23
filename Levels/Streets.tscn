@@ -5,6 +5,7 @@
 [node name="Level" type="Node2D"]
 
 [node name="Parallax2D" type="Parallax2D" parent="."]
+scale = Vector2(2.45, 2.45)
 repeat_size = Vector2(662.83, 1137.23)
 repeat_times = 13
 
